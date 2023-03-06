@@ -109,7 +109,7 @@
 
 
  /*큰이미지*/
- #bigimg {width:100%; height:520px; background-color:rgb(70, 120, 122); background-image:url("img/background-image.jpg");
+ #bigimg {width:100%; height:520px; background-color:rgb(70, 120, 122); background-image:url("https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTAxMTBfNjQg%2FMDAxNjEwMjc2MzE1Mjg0.UF9Ufx89Lr11lytOU-RlCeVaGNjAfWdAKuzyxTXYJ7cg.6DXRYnBWcx97jeQ1Hy4ud9Do-WsUPRqdYFsYR54xu4kg.PNG.loveporori111%2F%25B3%25EB%25B6%25F5%25B2%25C9%25B9%25AB%25B4%25CC01.png&type=sc960_832");
  background-position: center; background-size: cover; margin:0 auto;}
  #bigimg > .bigimgbox {margin:0 auto; width:1000px; height:170px;}
  #bigimg > .bigimgbox > img {width:550px; height:350px; margin:15px 0px 0px 0px;}
